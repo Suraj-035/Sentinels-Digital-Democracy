@@ -1,0 +1,706 @@
+{
+  "generated_at": "2026-03-27T12:58:11.387916+00:00",
+  "topics": [
+    "politics",
+    "economy",
+    "technology",
+    "health",
+    "artificial intelligence"
+  ],
+  "items": {
+    "politics": {
+      "query": "politics",
+      "run_at": "2026-03-27T12:57:23.570492+00:00",
+      "results": [
+        {
+          "title": "Georgia Could Become First State With Weapons Detection in All Public Schools",
+          "description": "Georgia could become the first state to require every student to be checked for weapons when arriving at a public school each day. A bill is nearing passage that would require weapons detection systems in a further reaction to a …",
+          "content": "Georgia could become the first state to require every student to be checked for weapons when arriving at a public school each day.\r\nA bill is nearing passage that would require weapons detection syst… [+5249 chars]",
+          "source": "Insurance Journal",
+          "url": "https://www.insurancejournal.com/news/southeast/2026/03/26/863574.htm",
+          "published_at": "2026-03-26T12:56:24Z",
+          "sentiment": "negative",
+          "confidence": 0.9808155298233032,
+          "category": "general",
+          "language": "en",
+          "analysis_basis": "title + description + content snippet",
+          "explanation": "The sentiment model marked this article as negative after reviewing the title + description + content snippet. In 'Georgia Could Become First State With Weapons Detection...', the wording leans more adverse than hopeful overall. Surface-level cues such as risk-oriented or critical wording support that reading, although this explanation is only a lightweight summary of the text rather than a full."
+        },
+        {
+          "title": "Exclusive: New Senate bill would ban prediction markets on sports, politics and military - Axios",
+          "description": "Exclusive: New Senate bill would ban prediction markets on sports, politics and militaryAxios Prediction market bets on sports, election, war would be verboten under new legislationCNBC House Democrat bans staff from betting on prediction markets, citing ethi…",
+          "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+          "source": "Slashdot.org",
+          "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181107172",
+          "published_at": "2026-03-26T12:52:38Z",
+          "sentiment": "negative",
+          "confidence": 0.9956989288330078,
+          "category": "politics",
+          "language": "en",
+          "analysis_basis": "title + description + content snippet",
+          "explanation": "The sentiment model marked this article as negative after reviewing the title + description + content snippet. In 'Exclusive: New Senate bill would ban prediction markets...', the wording leans more adverse than hopeful overall. Surface-level cues such as war support that reading, although this explanation is only a lightweight summary of the text rather than a full model rationale."
+        },
+        {
+          "title": "Oli: UML remains strong despite RSP’s near two-thirds win",
+          "description": "KATHMANDU: KP Sharma Oli, chair of Communist Party of Nepal (Unified Marxist–Leninist), has dismissed the near two-thirds majority secured by Rastriya Swatantra Party in the February 21 election, comparing it to a magician pulling a dove out of a hat. Address…",
+          "content": "KATHMANDU: KP Sharma Oli, chair of Communist Party of Nepal (Unified MarxistLeninist), has dismissed the near two-thirds majority secured by Rastriya Swatantra Party in the February 21 election, comp… [+1668 chars]",
+          "source": "Khabarhub.com",
+          "url": "https://english.khabarhub.com/2026/26/541056/",
+          "published_at": "2026-03-26T12:45:22Z",
+          "sentiment": "negative",
+          "confidence": 0.9898200631141663,
+          "category": "politics",
+          "language": "en",
+          "analysis_basis": "title + description + content snippet",
+          "explanation": "The sentiment model marked this article as negative after reviewing the title + description + content snippet. In 'Oli: UML remains strong despite RSP’s near two-thirds...', the wording leans more adverse than hopeful overall. Surface-level cues such as risk-oriented or critical wording support that reading, although this explanation is only a lightweight summary of the text rather than a full."
+        },
+        {
+          "title": "Sydney Sweeney Reveals Her Brother Has Been Deployed, Expresses Gratitude to US Troops",
+          "description": "Reading Time: 3 minutesSydney Sweeney's brother has been deployed.\nSydney Sweeney Reveals Her Brother Has Been Deployed, Expresses Gratitude to US Troops was originally published on The Hollywood Gossip.",
+          "content": "Reading Time: 3minutesFolks, we regret to inform you that we might be in for another round of discourse about Sydney Sweeneys politics.\r\nAmid news that the Pentagon had deployed the 82nd Airborne and… [+2672 chars]",
+          "source": "The Hollywood Gossip",
+          "url": "http://www.thehollywoodgossip.com/2026/03/sydney-sweeney-reveals-her-brother-has-been-deployed-expresses-gratitude-to-us-troops/",
+          "published_at": "2026-03-26T12:43:18Z",
+          "sentiment": "positive",
+          "confidence": 0.627843976020813,
+          "category": "politics",
+          "language": "en",
+          "analysis_basis": "title + description + content snippet",
+          "explanation": "The sentiment model marked this article as positive after reviewing the title + description + content snippet. In 'Sydney Sweeney Reveals Her Brother Has Been Deployed,...', the wording leans more encouraging than harmful overall. Surface-level cues such as constructive or encouraging wording support that reading, although this explanation is only a lightweight summary of the text rather than a full."
+        },
+        {
+          "title": "Antisemitism will destroy Western civilization",
+          "description": "Recent acts of hatred and cowardice in the West perfectly encapsulate the unique ability antisemitism possesses to destroy the civilizations it infects. Opinion.",
+          "content": "One need only look at the Middle East to see what decades of antisemitism does to nations. \r\n-Lebanon, once dubbed the \"Paris of the Middle East\" was destroyed by civil war and taken over by genocida… [+5949 chars]",
+          "source": "Israelnationalnews.com",
+          "url": "https://www.israelnationalnews.com/news/424623",
+          "published_at": "2026-03-26T12:38:00Z",
+          "sentiment": "positive",
+          "confidence": 0.9987953901290894,
+          "category": "general",
+          "language": "en",
+          "analysis_basis": "title + description + content snippet",
+          "explanation": "The sentiment model marked this article as positive after reviewing the title + description + content snippet. In 'Antisemitism will destroy Western civilization', the wording leans more encouraging than harmful overall. Surface-level cues such as constructive or encouraging wording support that reading, although this explanation is only a lightweight summary of the text rather than a full model rationale."
+        },
+        {
+          "title": "King's Counsel appointments ceremony 2026: Lord Chancellor speech",
+          "description": "Lord Chancellor’s speech at the 2026 King’s Counsel appointment ceremony, recognising those who have been formally appointed to the rank of KC and Honorary KC.",
+          "content": "Thank you, please take your seats.\r\nIts my very great honour to be here today\r\nTo preside over the formal appointment of all those achieving the rank of Kings Counsel\r\nAnd to welcome our new Honorary… [+7329 chars]",
+          "source": "Www.gov.uk",
+          "url": "https://www.gov.uk/government/speeches/kings-counsel-appointments-ceremony-2026-lord-chancellor-speech",
+          "published_at": "2026-03-26T12:37:14Z",
+          "sentiment": "positive",
+          "confidence": 0.9994530081748962,
+          "category": "general",
+          "language": "en",
+          "analysis_basis": "title + description + content snippet",
+          "explanation": "The sentiment model marked this article as positive after reviewing the title + description + content snippet. In 'King's Counsel appointments ceremony 2026: Lord Chancellor speech', the wording leans more encouraging than harmful overall. Surface-level cues such as constructive or encouraging wording support that reading, although this explanation is only a lightweight summary of the text rather than a full."
+        },
+        {
+          "title": "Diarmaid Ferriter: Decades after drivers camped overnight for petrol, Ireland is still too dependent on oil",
+          "description": "The current crisis highlights the sad longevity of the toxic combination of hubris, power and corruption the control of oil has generated",
+          "content": "Instability in the Middle East did much to destabilise the politics and economics of 1970s Ireland, as the resultant oil crises upended plans and diluted optimism. Irish entry to the European Economi… [+4913 chars]",
+          "source": "The Irish Times",
+          "url": "https://www.irishtimes.com/opinion/2026/03/26/diarmaid-ferriter-decades-after-drivers-camped-overnight-for-petrol-ireland-is-still-too-dependent-on-oil/",
+          "published_at": "2026-03-26T12:36:22Z",
+          "sentiment": "negative",
+          "confidence": 0.7042186260223389,
+          "category": "politics",
+          "language": "en",
+          "analysis_basis": "title + description + content snippet",
+          "explanation": "The sentiment model marked this article as negative after reviewing the title + description + content snippet. In 'Diarmaid Ferriter: Decades after drivers camped overnight for...', the wording leans more adverse than hopeful overall. Surface-level cues such as crisis support that reading, although this explanation is only a lightweight summary of the text rather than a full model rationale."
+        },
+        {
+          "title": "The long shadow of Paul Ehrlich’s ‘Population Bomb’ is evident in anti-immigration efforts today",
+          "description": "In the 1960s and ’70s, his arguments also resonated on the left, including with the head of a powerful environmental group.",
+          "content": "The idea of overpopulation has been used to argue against immigration. Pandagolik/iStock/Getty Images Plus\r\nPaul Ehrlich opened his 1968 book “The Population Bomb” with a scene recounting returning t… [+8801 chars]",
+          "source": "The Conversation Africa",
+          "url": "https://theconversation.com/the-long-shadow-of-paul-ehrlichs-population-bomb-is-evident-in-anti-immigration-efforts-today-279151",
+          "published_at": "2026-03-26T12:34:11Z",
+          "sentiment": "positive",
+          "confidence": 0.9866206645965576,
+          "category": "economy",
+          "language": "en",
+          "analysis_basis": "title + description + content snippet",
+          "explanation": "The sentiment model marked this article as positive after reviewing the title + description + content snippet. In 'The long shadow of Paul Ehrlich’s ‘Population Bomb’...', the wording leans more encouraging than harmful overall. Surface-level cues such as constructive or encouraging wording support that reading, although this explanation is only a lightweight summary of the text rather than a full."
+        },
+        {
+          "title": "​Germany: Building sector warns of spiralling costs",
+          "description": "Germany has a desperate shortage of affordable housing. The government's modernization of the construction law seems to be failing to get more homes built at \"turbo\" speed.",
+          "content": "Business associations from the construction and real estate sectors, as well as academics, are warning the German government of a worsening crisis in the housing market, as building costs spiral out … [+6136 chars]",
+          "source": "DW (English)",
+          "url": "https://www.dw.com/en/germany-building-sector-warns-of-spiralling-costs/a-76541631",
+          "published_at": "2026-03-26T12:34:00Z",
+          "sentiment": "negative",
+          "confidence": 0.9993897676467896,
+          "category": "politics",
+          "language": "en",
+          "analysis_basis": "title + description + content snippet",
+          "explanation": "The sentiment model marked this article as negative after reviewing the title + description + content snippet. In '​Germany: Building sector warns of spiralling costs', the wording leans more adverse than hopeful overall. Surface-level cues such as crisis support that reading, although this explanation is only a lightweight summary of the text rather than a full model rationale."
+        },
+        {
+          "title": "Prediction market bets on sports, election, war would be verboten under new legislation - CNBC",
+          "description": "Prediction market bets on sports, election, war would be verboten under new legislationCNBC New guardrails to prevent insider trading and manipulation in politics and sportsKalshi Lawmakers introduce bill to prohibit members of congress, president from predic…",
+          "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+          "source": "Slashdot.org",
+          "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181107094",
+          "published_at": "2026-03-26T12:33:07Z",
+          "sentiment": "negative",
+          "confidence": 0.9989808201789856,
+          "category": "politics",
+          "language": "en",
+          "analysis_basis": "title + description + content snippet",
+          "explanation": "The sentiment model marked this article as negative after reviewing the title + description + content snippet. In 'Prediction market bets on sports, election, war would...', the wording leans more adverse than hopeful overall. Surface-level cues such as war support that reading, although this explanation is only a lightweight summary of the text rather than a full model rationale."
+        }
+      ],
+      "summary": {
+        "general": {
+          "positive": 2,
+          "negative": 1,
+          "neutral": 0
+        },
+        "politics": {
+          "positive": 1,
+          "negative": 5,
+          "neutral": 0
+        },
+        "economy": {
+          "positive": 1,
+          "negative": 0,
+          "neutral": 0
+        }
+      }
+    },
+    "economy": {
+      "query": "economy",
+      "run_at": "2026-03-27T12:57:37.360783+00:00",
+      "results": [
+        {
+          "title": "Current price of oil as of March 26, 2026",
+          "description": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
+          "content": "By 9 a.m. Eastern Time today, oil had reached $105.85 per barrel, measured using the Brent benchmark. Thats $6.10 more than it cost yesterday morning and about $32 above its price a year earlier.<tab… [+5359 chars]",
+          "source": "Fortune",
+          "url": "https://fortune.com/article/price-of-oil-03-26-2026/",
+          "published_at": "2026-03-26T12:56:26Z",
+          "sentiment": "negative",
+          "confidence": 0.9849907755851746,
+          "category": "general",
+          "language": "en",
+          "analysis_basis": "title + description + content snippet",
+          "explanation": "The sentiment model marked this article as negative after reviewing the title + description + content snippet. In 'Current price of oil as of March 26,...', the wording leans more adverse than hopeful overall. Surface-level cues such as risk-oriented or critical wording support that reading, although this explanation is only a lightweight summary of the text rather than a full."
+        },
+        {
+          "title": "I Tested LinkedIn's AI Tools to Find Job Opportunities. Here's What I Found",
+          "description": "Let's take LinkedIn's AI features for a spin.",
+          "content": "Landing a new job in this economy is a full-time job. The job data looks grim, and the general sentiment is worse. It calls for a change of strategy, a switch to relationship-building rather than mas… [+4943 chars]",
+          "source": "CNET",
+          "url": "https://www.cnet.com/tech/services-and-software/i-tested-linkedins-new-ai-features-to-find-job-opportunities-heres-what-i-found/",
+          "published_at": "2026-03-26T12:54:54Z",
+          "sentiment": "negative",
+          "confidence": 0.9995317459106445,
+          "category": "economy",
+          "language": "en",
+          "analysis_basis": "title + description + content snippet",
+          "explanation": "The sentiment model marked this article as negative after reviewing the title + description + content snippet. In 'I Tested LinkedIn's AI Tools to Find Job...', the wording leans more adverse than hopeful overall. Surface-level cues such as risk-oriented or critical wording support that reading, although this explanation is only a lightweight summary of the text rather than a full."
+        },
+        {
+          "title": "EXCLUSIVE: Top Trump Official Sheds Light On ‘Mess’ Lying Under Hood Of Illegal Trucker Crisis",
+          "description": "Derek Barrs took the reins of a key agency, and quickly realized there was quite a \"mess\" for the Trump administration to clean up.",
+          "content": "Derek Barrs knew cleaning up the trucking industry would be a big job when President Donald Trump gave him the task, having spent years cracking down on commercial drivers for the Florida Highway Pat… [+6712 chars]",
+          "source": "The Daily Caller",
+          "url": "https://dailycaller.com/2026/03/26/exclusive-derek-barrs-fmcsa-illegal-trucking-crisis/",
+          "published_at": "2026-03-26T12:54:01Z",
+          "sentiment": "negative",
+          "confidence": 0.9963271021842957,
+          "category": "general",
+          "language": "en",
+          "analysis_basis": "title + description + content snippet",
+          "explanation": "The sentiment model marked this article as negative after reviewing the title + description + content snippet. In 'EXCLUSIVE: Top Trump Official Sheds Light On ‘Mess’...', the wording leans more adverse than hopeful overall. Surface-level cues such as crisis support that reading, although this explanation is only a lightweight summary of the text rather than a full model rationale."
+        },
+        {
+          "title": "Policy paper: Smart Data Strategy",
+          "description": "This strategy sets out the long‑term vision for smart data in the UK, and the actions government will take to unlock growth, competition and innovation through secure, trusted data sharing across the economy.",
+          "content": "We use some essential cookies to make this website work.\r\nWed like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services.\r\nWe also use coo… [+70 chars]",
+          "source": "Www.gov.uk",
+          "url": "https://www.gov.uk/government/publications/smart-data-strategy",
+          "published_at": "2026-03-26T12:52:14Z",
+          "sentiment": "positive",
+          "confidence": 0.9821167588233948,
+          "category": "politics",
+          "language": "en",
+          "analysis_basis": "title + description + content snippet",
+          "explanation": "The sentiment model marked this article as positive after reviewing the title + description + content snippet. In 'Policy paper: Smart Data Strategy', the wording leans more encouraging than harmful overall. Surface-level cues such as growth, improve support that reading, although this explanation is only a lightweight summary of the text rather than a full model rationale."
+        },
+        {
+          "title": "Doherty calls for cut to excise duty on home heating oil",
+          "description": "Sinn Féin's Pearse Doherty has questioned the fairness in leaving more than 750,000 homes dependent on home heating oil without meaningful support.",
+          "content": "Sinn Féin's Pearse Doherty has questioned the fairness in leaving more than 750,000 homes dependent on home heating oil without meaningful support.\r\nHe told the Dáil that a 67-year-old woman, who is … [+1559 chars]",
+          "source": "RTE",
+          "url": "https://www.rte.ie/news/politics/2026/0326/1565351-fuel-prices-dail/",
+          "published_at": "2026-03-26T12:45:28Z",
+          "sentiment": "negative",
+          "confidence": 0.9978594183921814,
+          "category": "technology",
+          "language": "en",
+          "analysis_basis": "title + description + content snippet",
+          "explanation": "The sentiment model marked this article as negative after reviewing the title + description + content snippet. In 'Doherty calls for cut to excise duty on...', the wording leans more adverse than hopeful overall. Surface-level cues such as risk-oriented or critical wording support that reading, although this explanation is only a lightweight summary of the text rather than a full."
+        },
+        {
+          "title": "Massie's PRIME Act has been included in the Farm bill",
+          "description": "@FarmActionUS Rep. Thomas Massie is on the brink of securing a huge win for small farmers. His PRIME Act is officially included in the 2026 Farm Bill. If this passes, it will deliver a blow to Big Ag’s stranglehold on the meatpacking industry. “This would mak…",
+          "content": "Skip to comments.\r\nMassie's PRIME Act has been included in the Farm bill X ^\r\n | March 26\r\n | Farm Action US\r\nPosted on 03/26/2026 5:42:13 AM PDT by RandFan\r\n@FarmActionUS \r\nRep. Thomas Massie is on … [+2294 chars]",
+          "source": "Freerepublic.com",
+          "url": "https://freerepublic.com/focus/f-chat/4372271/posts",
+          "published_at": "2026-03-26T12:42:13Z",
+          "sentiment": "negative",
+          "confidence": 0.9757732152938843,
+          "category": "general",
+          "language": "en",
+          "analysis_basis": "title + description + content snippet",
+          "explanation": "The sentiment model marked this article as negative after reviewing the title + description + content snippet. In 'Massie's PRIME Act has been included in the...', the wording leans more adverse than hopeful overall. Surface-level cues such as risk-oriented or critical wording support that reading, although this explanation is only a lightweight summary of the text rather than a full."
+        },
+        {
+          "title": "Pané anuncia la creación de un hub de innovación sobre atención social y sanitaria",
+          "description": "La consellera de Salud de la Generalitat, Olga Pané, ha anunciado la creación de iBé, un hub de innovación que buscará impulsar, evaluar y escalar soluciones e innovaciones en materia de bienestar, mejora de la autonomía e integración sociosanitaria ante el e…",
+          "content": "BARCELONA, 26 Mar. (EUROPA PRESS) - \r\n La consellera de Salud de la Generalitat, Olga Pané, ha anunciado la creación de iBé, un hub de innovación que buscará impulsar, evaluar y escalar soluciones e … [+3282 chars]",
+          "source": "Europapress.es",
+          "url": "https://www.europapress.es/catalunya/noticia-pane-anuncia-creacion-hub-innovacion-atencion-social-sanitaria-20260326134023.html",
+          "published_at": "2026-03-26T12:40:23Z",
+          "sentiment": "positive",
+          "confidence": 0.9974526762962341,
+          "category": "general",
+          "language": "es",
+          "analysis_basis": "title + description + content snippet",
+          "explanation": "The sentiment model marked this article as positive after reviewing the title + description + content snippet. In 'Pané anuncia la creación de un hub de...', the wording leans more encouraging than harmful overall. Surface-level cues such as constructive or encouraging wording support that reading, although this explanation is only a lightweight summary of the text rather than a full."
+        },
+        {
+          "title": "Strategy Summit 2026: Inventive Strategy and the ‘Unbossed’ Organization",
+          "description": "A conversation with Columbia Business School’s Rita McGrath on finding competitive advantage in the time of AI.",
+          "content": "ADI IGNATIUS: I’m Adi Ignatius, and this is the HBR IdeaCast.\r\nHarvard Business Review recently hosted the HBR Strategy Summit 2026, a day filled with expert advice and guidance from executives and a… [+24894 chars]",
+          "source": "Harvard Business Review",
+          "url": "https://hbr.org/podcast/2026/03/strategy-summit-2026-inventive-strategy-and-the-unbossed-organization",
+          "published_at": "2026-03-26T12:40:00Z",
+          "sentiment": "positive",
+          "confidence": 0.9627915024757385,
+          "category": "economy",
+          "language": "en",
+          "analysis_basis": "title + description + content snippet",
+          "explanation": "The sentiment model marked this article as positive after reviewing the title + description + content snippet. In 'Strategy Summit 2026: Inventive Strategy and the ‘Unbossed’...', the wording leans more encouraging than harmful overall. Surface-level cues such as constructive or encouraging wording support that reading, although this explanation is only a lightweight summary of the text rather than a full."
+        },
+        {
+          "title": "Antisemitism will destroy Western civilization",
+          "description": "Recent acts of hatred and cowardice in the West perfectly encapsulate the unique ability antisemitism possesses to destroy the civilizations it infects. Opinion.",
+          "content": "One need only look at the Middle East to see what decades of antisemitism does to nations. \r\n-Lebanon, once dubbed the \"Paris of the Middle East\" was destroyed by civil war and taken over by genocida… [+5949 chars]",
+          "source": "Israelnationalnews.com",
+          "url": "https://www.israelnationalnews.com/news/424623",
+          "published_at": "2026-03-26T12:38:00Z",
+          "sentiment": "positive",
+          "confidence": 0.9987953901290894,
+          "category": "general",
+          "language": "en",
+          "analysis_basis": "title + description + content snippet",
+          "explanation": "The sentiment model marked this article as positive after reviewing the title + description + content snippet. In 'Antisemitism will destroy Western civilization', the wording leans more encouraging than harmful overall. Surface-level cues such as constructive or encouraging wording support that reading, although this explanation is only a lightweight summary of the text rather than a full model rationale."
+        }
+      ],
+      "summary": {
+        "general": {
+          "positive": 2,
+          "negative": 3,
+          "neutral": 0
+        },
+        "economy": {
+          "positive": 1,
+          "negative": 1,
+          "neutral": 0
+        },
+        "politics": {
+          "positive": 1,
+          "negative": 0,
+          "neutral": 0
+        },
+        "technology": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 0
+        }
+      }
+    },
+    "technology": {
+      "query": "technology",
+      "run_at": "2026-03-27T12:57:48.848017+00:00",
+      "results": [
+        {
+          "title": "Early details of the Exynos 2800 chip for the Galaxy S28 emerge",
+          "description": "Earlier this year, Samsung launched the world’s first 2nm smartphone chip, the Exynos 2600. It has been used in the Galaxy S26 and the Galaxy S26+ in most countries globally. While the specifications of the Exynos 2700 are not yet available, early details abo…",
+          "content": "Earlier this year, Samsung launched the worlds first 2nm smartphone chip, the Exynos 2600. It has been used in the Galaxy S26 and the Galaxy S26+ in most countries globally. While the specifications … [+2063 chars]",
+          "source": "SamMobile",
+          "url": "https://www.sammobile.com/news/first-details-exynos-2800-chip-galaxy-s28-leak/",
+          "published_at": "2026-03-26T12:57:33Z",
+          "sentiment": "positive",
+          "confidence": 0.5679827928543091,
+          "category": "technology",
+          "language": "en",
+          "analysis_basis": "title + description + content snippet",
+          "explanation": "The sentiment model marked this article as positive after reviewing the title + description + content snippet. In 'Early details of the Exynos 2800 chip for...', the wording leans more encouraging than harmful overall. Surface-level cues such as constructive or encouraging wording support that reading, although this explanation is only a lightweight summary of the text rather than a full."
+        },
+        {
+          "title": "AI’s infrastructure crunch: Inside CNCF’s play to bring order to inference chaos",
+          "description": "Unpredictable demand, specialized hardware, production-scale complexity — all of it is making AI inference harder to run at enterprise scale. Now, cloud-native open-source infrastructure is emerging as the answer to inference chaos. That shift is already show…",
+          "content": "Unpredictable demand, specialized hardware, production-scale complexity all of it is making AI inference harder to run at enterprise scale. Now, cloud-native open-source infrastructure is emerging as… [+4311 chars]",
+          "source": "SiliconANGLE News",
+          "url": "https://siliconangle.com/2026/03/26/cloud-native-open-source-infrastructure-meets-ai-big-test-kubeconeu/",
+          "published_at": "2026-03-26T12:56:32Z",
+          "sentiment": "negative",
+          "confidence": 0.9856947064399719,
+          "category": "technology",
+          "language": "en",
+          "analysis_basis": "title + description + content snippet",
+          "explanation": "The sentiment model marked this article as negative after reviewing the title + description + content snippet. In 'AI’s infrastructure crunch: Inside CNCF’s play to bring...', the wording leans more adverse than hopeful overall. Surface-level cues such as risk-oriented or critical wording support that reading, although this explanation is only a lightweight summary of the text rather than a full."
+        },
+        {
+          "title": "Georgia Could Become First State With Weapons Detection in All Public Schools",
+          "description": "Georgia could become the first state to require every student to be checked for weapons when arriving at a public school each day. A bill is nearing passage that would require weapons detection systems in a further reaction to a …",
+          "content": "Georgia could become the first state to require every student to be checked for weapons when arriving at a public school each day.\r\nA bill is nearing passage that would require weapons detection syst… [+5249 chars]",
+          "source": "Insurance Journal",
+          "url": "https://www.insurancejournal.com/news/southeast/2026/03/26/863574.htm",
+          "published_at": "2026-03-26T12:56:24Z",
+          "sentiment": "negative",
+          "confidence": 0.9808155298233032,
+          "category": "general",
+          "language": "en",
+          "analysis_basis": "title + description + content snippet",
+          "explanation": "The sentiment model marked this article as negative after reviewing the title + description + content snippet. In 'Georgia Could Become First State With Weapons Detection...', the wording leans more adverse than hopeful overall. Surface-level cues such as risk-oriented or critical wording support that reading, although this explanation is only a lightweight summary of the text rather than a full."
+        },
+        {
+          "title": "Best Sydney Personal Injury Lawyers: 10 Top Firms for Injury Claims in 2026",
+          "description": "SYDNEY — With rising road accidents, workplace injuries and public liability claims in New South Wales, Sydney residents seeking compensation increasingly turn to specialist personal injury lawyers who operate on a no win, no fee basis to secure maximum payou…",
+          "content": "SYDNEY — With rising road accidents, workplace injuries and public liability claims in New South Wales, Sydney residents seeking compensation increasingly turn to specialist personal injury lawyers w… [+7273 chars]",
+          "source": "Ibtimes.com.au",
+          "url": "https://www.ibtimes.com.au/best-sydney-personal-injury-lawyers-10-top-firms-injury-claims-2026-1864557",
+          "published_at": "2026-03-26T12:55:42Z",
+          "sentiment": "positive",
+          "confidence": 0.9693006277084351,
+          "category": "technology",
+          "language": "en",
+          "analysis_basis": "title + description + content snippet",
+          "explanation": "The sentiment model marked this article as positive after reviewing the title + description + content snippet. In 'Best Sydney Personal Injury Lawyers: 10 Top Firms...', the wording leans more encouraging than harmful overall. Surface-level cues such as win support that reading, although this explanation is only a lightweight summary of the text rather than a full model rationale."
+        },
+        {
+          "title": "TCL NXTPAPER 11 and TAB 10 Android tablets hit Amazon all-time lows in Big Spring Sale from $140 (30% off)",
+          "description": "As part of the Amazon Big Spring Sale, we are tracking some new all-time lows and solid price drops on the new TCL Android tablets. The TCL NXTPAPER 11 Gen 2 Android Tablet is now 30% off down at $159.99 shipped and the TCL TAB 10 Gen 4 Android Tablet is also…",
+          "content": "As part of the Amazon Big Spring Sale, we are tracking some new all-time lows and solid price drops on the new TCL Android tablets. The TCL NXTPAPER 11 Gen 2 Android Tablet is now 30% off down at $15… [+2299 chars]",
+          "source": "9to5Toys",
+          "url": "http://9to5toys.com/2026/03/26/tcl-nxtpaper-11-tab-android-tablets-deals/",
+          "published_at": "2026-03-26T12:53:01Z",
+          "sentiment": "negative",
+          "confidence": 0.9988275170326233,
+          "category": "general",
+          "language": "en",
+          "analysis_basis": "title + description + content snippet",
+          "explanation": "The sentiment model marked this article as negative after reviewing the title + description + content snippet. In 'TCL NXTPAPER 11 and TAB 10 Android tablets...', the wording leans more adverse than hopeful overall. Surface-level cues such as risk-oriented or critical wording support that reading, although this explanation is only a lightweight summary of the text rather than a full."
+        },
+        {
+          "title": "Stop Fumbling With Your Keys With This Premium Fingerprint Lock. Grab It While It’s 33% Off During Spring Sale",
+          "description": "You're getting a $120 high-tech security system for just $80 -- lock it before stock runs out.",
+          "content": "You can grab the Ultraloq Bolt SE for just $80 right now, down from its usual price of $120. This is one of the standout home security deals available during Amazon's Big Spring Sale, making it much … [+1171 chars]",
+          "source": "CNET",
+          "url": "https://www.cnet.com/deals/ultraloq-bolt-se-smart-lock-deal/",
+          "published_at": "2026-03-26T12:53:00Z",
+          "sentiment": "positive",
+          "confidence": 0.9939308166503906,
+          "category": "economy",
+          "language": "en",
+          "analysis_basis": "title + description + content snippet",
+          "explanation": "The sentiment model marked this article as positive after reviewing the title + description + content snippet. In 'Stop Fumbling With Your Keys With This Premium...', the wording leans more encouraging than harmful overall. Surface-level cues such as constructive or encouraging wording support that reading, although this explanation is only a lightweight summary of the text rather than a full."
+        },
+        {
+          "title": "Kerala Cyber Police serves X notice, registers FIR over AI deepfake of PM and ECI",
+          "description": "Kerala’s Cyber Operations Wing has registered a case against the X account “Laxmi N Raju (@valiant_Raju)” and issued a legal…\nThe post Kerala Cyber Police serves X notice, registers FIR over AI deepfake of PM and ECI appeared first on MEDIANAMA.",
+          "content": "Kerala’s Cyber Operations Wing has registered a case against the X account “Laxmi N Raju (@valiant_Raju)” and issued a legal notice to X over an AI-generated video. The video allegedly depicted Prime… [+2386 chars]",
+          "source": "MediaNama.com",
+          "url": "https://www.medianama.com/2026/03/223-kerala-cyber-police-serves-x-notice-registers-fir-ai-deepfake-pm-eci/",
+          "published_at": "2026-03-26T12:49:30Z",
+          "sentiment": "negative",
+          "confidence": 0.9858368635177612,
+          "category": "technology",
+          "language": "en",
+          "analysis_basis": "title + description + content snippet",
+          "explanation": "The sentiment model marked this article as negative after reviewing the title + description + content snippet. In 'Kerala Cyber Police serves X notice, registers FIR...', the wording leans more adverse than hopeful overall. Surface-level cues such as risk-oriented or critical wording support that reading, although this explanation is only a lightweight summary of the text rather than a full."
+        },
+        {
+          "title": "BiomX Launches Security Subsidiary in Israel and Will Initially Invest Over $3 million In Its Operations",
+          "description": "Initiative marks entry into Israel’s rapidly growing autonomous AI defense, firefighting and first response activities Initiative marks entry into Israel’s rapidly growing autonomous AI defense, firefighting and first response activities",
+          "content": "NETANYA, Israel, March 26, 2026 (GLOBE NEWSWIRE) -- BiomX Inc. (NYSE American: PHGE) today announced the launch of X Security &amp; Defense LTD., a new wholly-owned subsidiary. The company will finan… [+5543 chars]",
+          "source": "GlobeNewswire",
+          "url": "https://www.globenewswire.com/news-release/2026/03/26/3263026/0/en/BiomX-Launches-Security-Subsidiary-in-Israel-and-Will-Initially-Invest-Over-3-million-In-Its-Operations.html",
+          "published_at": "2026-03-26T12:48:00Z",
+          "sentiment": "positive",
+          "confidence": 0.9935511350631714,
+          "category": "technology",
+          "language": "en",
+          "analysis_basis": "title + description + content snippet",
+          "explanation": "The sentiment model marked this article as positive after reviewing the title + description + content snippet. In 'BiomX Launches Security Subsidiary in Israel and Will...', the wording leans more encouraging than harmful overall. Surface-level cues such as constructive or encouraging wording support that reading, although this explanation is only a lightweight summary of the text rather than a full."
+        },
+        {
+          "title": "Intel’s Binary Optimization Tool tested and explained — how the iBOT translation delivers up to 18% faster gaming performance, 8% on average",
+          "description": "Intel’s new Core Ultra 200S Plus CPUs come with a unique feature: Binary Optimization Tool. We’ve put it to the test in 10 games with the 250K Plus and 270K Plus, and came out with an 8% uplift on average.",
+          "content": "Intel has something interesting going on with its new Binary Optimization Tool. Otherwise known as iBOT, it’s a translation layer along the lines of Microsoft Prism or Apple Rosetta. However, instead… [+13255 chars]",
+          "source": "Tom's Hardware UK",
+          "url": "https://www.tomshardware.com/pc-components/cpus/intels-binary-optimization-tool-tested-and-explained-how-the-ibot-translation-delivers-up-to-18-percent-faster-gaming-performance-8-percent-on-average",
+          "published_at": "2026-03-26T12:46:45Z",
+          "sentiment": "positive",
+          "confidence": 0.9749382138252258,
+          "category": "technology",
+          "language": "en",
+          "analysis_basis": "title + description + content snippet",
+          "explanation": "The sentiment model marked this article as positive after reviewing the title + description + content snippet. In 'Intel’s Binary Optimization Tool tested and explained —...', the wording leans more encouraging than harmful overall. Surface-level cues such as constructive or encouraging wording support that reading, although this explanation is only a lightweight summary of the text rather than a full."
+        },
+        {
+          "title": "Hoppers 2026 1080p DCP WEBRIP x264-AOC",
+          "description": "Plot: A 19-year-old animal lover uses technology that places her consciousness into a robotic beaver to uncover mysteries within the animal world beyond her imagination. Genre: Animation | Adventure | ComedyIMDB Rating Live: IMDB Rating: 7.6/10 From 20,393 Us…",
+          "content": "Plot: A 19-year-old animal lover uses technology that places her consciousness into a robotic beaver to uncover mysteries within the animal world beyond her imagination. \r\nGenre: Animation | Adventur… [+543 chars]",
+          "source": "Rlsbb.to",
+          "url": "https://post.rlsbb.to/hoppers-2026-1080p-dcp-webrip-x264-aoc/",
+          "published_at": "2026-03-26T12:45:08Z",
+          "sentiment": "positive",
+          "confidence": 0.9697145819664001,
+          "category": "technology",
+          "language": "en",
+          "analysis_basis": "title + description + content snippet",
+          "explanation": "The sentiment model marked this article as positive after reviewing the title + description + content snippet. In 'Hoppers 2026 1080p DCP WEBRIP x264-AOC', the wording leans more encouraging than harmful overall. Surface-level cues such as constructive or encouraging wording support that reading, although this explanation is only a lightweight summary of the text rather than a full model rationale."
+        }
+      ],
+      "summary": {
+        "technology": {
+          "positive": 5,
+          "negative": 2,
+          "neutral": 0
+        },
+        "general": {
+          "positive": 0,
+          "negative": 2,
+          "neutral": 0
+        },
+        "economy": {
+          "positive": 1,
+          "negative": 0,
+          "neutral": 0
+        }
+      }
+    },
+    "health": {
+      "query": "health",
+      "run_at": "2026-03-27T12:58:00.113352+00:00",
+      "results": [
+        {
+          "title": "US filings for jobless aid tick up last week to 210,000 but remain at healthy levels",
+          "description": "The number of Americans applying for jobless aid inched up last week as employers continue to retain workers despite a labor market that has weakened considerably in the past year",
+          "content": "WASHINGTON -- The number of Americans applying for jobless aid inched up last week as employers continue to retain workers despite a labor market that has weakened considerably in the past year.\r\nU.S… [+690 chars]",
+          "source": "Abcnews.com",
+          "url": "https://abcnews.com/Business/wireStory/us-filings-jobless-aid-tick-week-210000-remain-131429779",
+          "published_at": "2026-03-26T12:55:42Z",
+          "sentiment": "negative",
+          "confidence": 0.8486341834068298,
+          "category": "economy",
+          "language": "en",
+          "analysis_basis": "title + description + content snippet",
+          "explanation": "The sentiment model marked this article as negative after reviewing the title + description + content snippet. In 'US filings for jobless aid tick up last...', the wording leans more adverse than hopeful overall. Surface-level cues such as risk-oriented or critical wording support that reading, although this explanation is only a lightweight summary of the text rather than a full."
+        },
+        {
+          "title": "I Tested LinkedIn's AI Tools to Find Job Opportunities. Here's What I Found",
+          "description": "Let's take LinkedIn's AI features for a spin.",
+          "content": "Landing a new job in this economy is a full-time job. The job data looks grim, and the general sentiment is worse. It calls for a change of strategy, a switch to relationship-building rather than mas… [+4943 chars]",
+          "source": "CNET",
+          "url": "https://www.cnet.com/tech/services-and-software/i-tested-linkedins-new-ai-features-to-find-job-opportunities-heres-what-i-found/",
+          "published_at": "2026-03-26T12:54:54Z",
+          "sentiment": "negative",
+          "confidence": 0.9995317459106445,
+          "category": "economy",
+          "language": "en",
+          "analysis_basis": "title + description + content snippet",
+          "explanation": "The sentiment model marked this article as negative after reviewing the title + description + content snippet. In 'I Tested LinkedIn's AI Tools to Find Job...', the wording leans more adverse than hopeful overall. Surface-level cues such as risk-oriented or critical wording support that reading, although this explanation is only a lightweight summary of the text rather than a full."
+        },
+        {
+          "title": "Apple rolls out age verification in the UK with iOS 26.4 — right after Meta and Google get fined for not protecting kids",
+          "description": "There's growing momentum behind holding tech companies to account for protecting children, as Apple adds age verification in the UK.",
+          "content": "<ul><li>iOS and iPadOS users in the UK now have to verify their age</li><li>Otherwise certain features may be disabled for under-18s</li><li>Meta and Google have been fined over their child safety po… [+4250 chars]",
+          "source": "TechRadar",
+          "url": "https://www.techradar.com/phones/iphone/apple-rolls-out-age-verification-in-the-uk-with-ios-26-4-right-after-meta-and-google-get-fined-for-not-protecting-kids",
+          "published_at": "2026-03-26T12:53:49Z",
+          "sentiment": "negative",
+          "confidence": 0.9943374991416931,
+          "category": "technology",
+          "language": "en",
+          "analysis_basis": "title + description + content snippet",
+          "explanation": "The sentiment model marked this article as negative after reviewing the title + description + content snippet. In 'Apple rolls out age verification in the UK...', the wording leans more adverse than hopeful overall. Surface-level cues such as risk-oriented or critical wording support that reading, although this explanation is only a lightweight summary of the text rather than a full."
+        },
+        {
+          "title": "Major court ruling says social media apps are intentionally addictive; Meta & Google lose",
+          "description": "A court ruling with potentially massive implications has found that social media apps are intentionally designed to be addictive, and are harmful to teenage mental health.\n\n\n\nA now 20-year-old woman sued Meta and YouTube owner Google for damaging her mental h…",
+          "content": "A court ruling with potentially massive implications has found that social media apps are intentionally designed to be addictive, and are harmful to teenage mental health.\r\nA now 20-year-old woman su… [+2265 chars]",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/03/26/major-court-ruling-says-social-media-apps-are-intentionally-addictive-meta-google-lose/",
+          "published_at": "2026-03-26T12:53:05Z",
+          "sentiment": "negative",
+          "confidence": 0.995725154876709,
+          "category": "health",
+          "language": "en",
+          "analysis_basis": "title + description + content snippet",
+          "explanation": "The sentiment model marked this article as negative after reviewing the title + description + content snippet. In 'Major court ruling says social media apps are...', the wording leans more adverse than hopeful overall. Surface-level cues such as risk-oriented or critical wording support that reading, although this explanation is only a lightweight summary of the text rather than a full."
+        },
+        {
+          "title": "Your Pixel phone can now help you fix frustrating Bluetooth issues",
+          "description": "Google rolls out a new Pixel Bluetooth diagnostics tool to help users troubleshoot issues with wireless accessories like Pixel Buds.",
+          "content": "<ul><li>Google is rolling out a Bluetooth diagnostics tool to Pixel phones via an update to the Pixel Troubleshooting app.</li><li>The feature allows users to test connections with Bluetooth accessor… [+1773 chars]",
+          "source": "Android Authority",
+          "url": "https://www.androidauthority.com/google-pixel-bluetooth-diagnostics-tool-3652181/",
+          "published_at": "2026-03-26T12:52:33Z",
+          "sentiment": "negative",
+          "confidence": 0.9968750476837158,
+          "category": "general",
+          "language": "en",
+          "analysis_basis": "title + description + content snippet",
+          "explanation": "The sentiment model marked this article as negative after reviewing the title + description + content snippet. In 'Your Pixel phone can now help you fix...', the wording leans more adverse than hopeful overall. Surface-level cues such as risk-oriented or critical wording support that reading, although this explanation is only a lightweight summary of the text rather than a full."
+        },
+        {
+          "title": "US filings for jobless aid tick up last week to 210,000",
+          "description": "The four-week moving average of jobless claims dipped by 250 to 210,500.",
+          "content": "By MATT OTT, AP Business Writer\r\nWASHINGTON (AP) The number of Americans applying for jobless aid inched up last week as employers continue to retain workers despite a labor market that has weakened … [+2762 chars]",
+          "source": "Boston Herald",
+          "url": "https://www.bostonherald.com/2026/03/26/jobless-aid-applications/",
+          "published_at": "2026-03-26T12:50:30Z",
+          "sentiment": "negative",
+          "confidence": 0.9859570264816284,
+          "category": "economy",
+          "language": "en",
+          "analysis_basis": "title + description + content snippet",
+          "explanation": "The sentiment model marked this article as negative after reviewing the title + description + content snippet. In 'US filings for jobless aid tick up last...', the wording leans more adverse than hopeful overall. Surface-level cues such as risk-oriented or critical wording support that reading, although this explanation is only a lightweight summary of the text rather than a full."
+        },
+        {
+          "title": "Francis Ngannou insists leaving UFC was best decision for legacy",
+          "description": "Francis Ngannou has no regrets after opting to part ways with the UFC.",
+          "content": "Francis Ngannou has no regrets after opting to leave the UFC.\r\nNgannou (18-3) exited the UFC as heavyweight champion when he failed to come to terms with the promotion on a new deal in 2023. He asked… [+1994 chars]",
+          "source": "USA Today",
+          "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/03/26/francis-ngannou-opinion-leaving-ufc-was-better-for-legacy-pfl-boxing-heavyweight-champion/89328453007/",
+          "published_at": "2026-03-26T12:50:18Z",
+          "sentiment": "negative",
+          "confidence": 0.9950724244117737,
+          "category": "technology",
+          "language": "en",
+          "analysis_basis": "title + description + content snippet",
+          "explanation": "The sentiment model marked this article as negative after reviewing the title + description + content snippet. In 'Francis Ngannou insists leaving UFC was best decision...', the wording leans more adverse than hopeful overall. Surface-level cues such as risk-oriented or critical wording support that reading, although this explanation is only a lightweight summary of the text rather than a full."
+        },
+        {
+          "title": "The natural birth movement empowers many women but pressure can also work the other way",
+          "description": "Women report experiencing pressure to birth naturally. This is often overlooked, but can be just as harmful as pressure to have birth interventions.",
+          "content": "Reshetnikov_art/Shutterstock\r\nChildbirth is often framed as a choice between two extremes: “natural” birth or medical intervention. The real challenge is making sure women can decide how they give bi… [+8019 chars]",
+          "source": "The Conversation Africa",
+          "url": "https://theconversation.com/the-natural-birth-movement-empowers-many-women-but-pressure-can-also-work-the-other-way-276090",
+          "published_at": "2026-03-26T12:49:41Z",
+          "sentiment": "negative",
+          "confidence": 0.9473324418067932,
+          "category": "economy",
+          "language": "en",
+          "analysis_basis": "title + description + content snippet",
+          "explanation": "The sentiment model marked this article as negative after reviewing the title + description + content snippet. In 'The natural birth movement empowers many women but...', the wording leans more adverse than hopeful overall. Surface-level cues such as risk-oriented or critical wording support that reading, although this explanation is only a lightweight summary of the text rather than a full."
+        },
+        {
+          "title": "EU backs nude app ban and delays to landmark AI rules",
+          "description": "European lawmakers have voted to delay key parts of the EU AI Act, the bloc's flagship law for regulating artificial intelligence, while also backing proposals to ban nudify apps. The measures, approved by a large majority in the European Parliament, would pu…",
+          "content": "<ul><li></li><li></li><li></li></ul>\r\nThe proposals would push back looming deadlines for watermarking AI-generated content and high-risk AI systems.\r\nThe proposals would push back looming deadlines … [+2594 chars]",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/901315/eu-ai-act-delays-ban-nudify-apps",
+          "published_at": "2026-03-26T12:49:01Z",
+          "sentiment": "negative",
+          "confidence": 0.9900941252708435,
+          "category": "technology",
+          "language": "en",
+          "analysis_basis": "title + description + content snippet",
+          "explanation": "The sentiment model marked this article as negative after reviewing the title + description + content snippet. In 'EU backs nude app ban and delays to...', the wording leans more adverse than hopeful overall. Surface-level cues such as risk-oriented or critical wording support that reading, although this explanation is only a lightweight summary of the text rather than a full."
+        }
+      ],
+      "summary": {
+        "economy": {
+          "positive": 0,
+          "negative": 4,
+          "neutral": 0
+        },
+        "technology": {
+          "positive": 0,
+          "negative": 3,
+          "neutral": 0
+        },
+        "health": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 0
+        },
+        "general": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 0
+        }
+      }
+    },
+    "artificial intelligence": {
+      "query": "artificial intelligence",
+      "run_at": "2026-03-27T12:58:11.387916+00:00",
+      "results": [
+        {
+          "title": "EU backs nude app ban and delays to landmark AI rules",
+          "description": "European lawmakers have voted to delay key parts of the EU AI Act, the bloc's flagship law for regulating artificial intelligence, while also backing proposals to ban nudify apps. The measures, approved by a large majority in the European Parliament, would pu…",
+          "content": "<ul><li></li><li></li><li></li></ul>\r\nThe proposals would push back looming deadlines for watermarking AI-generated content and high-risk AI systems.\r\nThe proposals would push back looming deadlines … [+2594 chars]",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/901315/eu-ai-act-delays-ban-nudify-apps",
+          "published_at": "2026-03-26T12:49:01Z",
+          "sentiment": "negative",
+          "confidence": 0.9900941252708435,
+          "category": "technology",
+          "language": "en",
+          "analysis_basis": "title + description + content snippet",
+          "explanation": "The sentiment model marked this article as negative after reviewing the title + description + content snippet. In 'EU backs nude app ban and delays to...', the wording leans more adverse than hopeful overall. Surface-level cues such as risk-oriented or critical wording support that reading, although this explanation is only a lightweight summary of the text rather than a full."
+        },
+        {
+          "title": "MARA sells 15,133 Bitcoin for $1.1 billion and slips behind Twenty One Capital",
+          "description": "MARA's Bitcoin sale to reduce debt highlights a strategic shift towards diversification, impacting its standing among corporate Bitcoin holders.\nThe post MARA sells 15,133 Bitcoin for $1.1 billion and slips behind Twenty One Capital appeared first on Crypto B…",
+          "content": "Marathon's Bitcoin sale reflects a shift in strategy as it embraces AI and digital energy opportunities. MARA Holdings, a Nasdaq-listed Bitcoin miner moving into digital energy and artificial intelli… [+1182 chars]",
+          "source": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/mara-bitcoin-asset-sale-debt-repurchase/",
+          "published_at": "2026-03-26T12:41:27Z",
+          "sentiment": "positive",
+          "confidence": 0.8240898251533508,
+          "category": "technology",
+          "language": "en",
+          "analysis_basis": "title + description + content snippet",
+          "explanation": "The sentiment model marked this article as positive after reviewing the title + description + content snippet. In 'MARA sells 15,133 Bitcoin for $1.1 billion and...', the wording leans more encouraging than harmful overall. Surface-level cues such as constructive or encouraging wording support that reading, although this explanation is only a lightweight summary of the text rather than a full."
+        },
+        {
+          "title": "Maris-Tech Receives Follow-On Order from Governmental Customer in Intelligence Gathering Domain",
+          "description": "Continued engagement reflects ongoing operational deployment and customer confidence in Maris-Tech’s technology  Rehovot, Israel, March  26, 2026  (GLOBE...",
+          "content": "Continued engagement reflects ongoing operational deployment and customer confidence in Maris-Techs technology\r\nRehovot, Israel, March 26, 2026 (GLOBE NEWSWIRE) -- Maris-Tech Ltd. (Nasdaq: MTEK, MTEK… [+4572 chars]",
+          "source": "GlobeNewswire",
+          "url": "https://www.globenewswire.com/news-release/2026/03/26/3263019/0/en/Maris-Tech-Receives-Follow-On-Order-from-Governmental-Customer-in-Intelligence-Gathering-Domain.html",
+          "published_at": "2026-03-26T12:40:00Z",
+          "sentiment": "positive",
+          "confidence": 0.995625376701355,
+          "category": "politics",
+          "language": "en",
+          "analysis_basis": "title + description + content snippet",
+          "explanation": "The sentiment model marked this article as positive after reviewing the title + description + content snippet. In 'Maris-Tech Receives Follow-On Order from Governmental Customer in...', the wording leans more encouraging than harmful overall. Surface-level cues such as constructive or encouraging wording support that reading, although this explanation is only a lightweight summary of the text rather than a full."
+        }
+      ],
+      "summary": {
+        "technology": {
+          "positive": 1,
+          "negative": 1,
+          "neutral": 0
+        },
+        "politics": {
+          "positive": 1,
+          "negative": 0,
+          "neutral": 0
+        }
+      }
+    }
+  }
+}

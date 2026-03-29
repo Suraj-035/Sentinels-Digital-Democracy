@@ -17,3 +17,19 @@ data/processed_videos/
 
 # Logs
 *.log
+# Python
+__pycache__/
+*.pyc
+
+# HuggingFace cache
+.hf_cache/
+
+# Node
+node_modules/
+
+# Environment files
+.env
+
+# OS junk
+.DS_Store
+Thumbs.db

@@ -2,7 +2,7 @@
 import cv2
 import os
 
-def extract_frames(video_path, output_dir, fps_interval=1):
+def extract_frames(video_path, output_dir, fps_interval=2, max_saved_frames=60):
     os.makedirs(output_dir, exist_ok=True)
 
     cap = cv2.VideoCapture(video_path)
@@ -21,14 +21,16 @@ def extract_frames(video_path, output_dir, fps_interval=1):
             frame_name = f"frame_{saved_count}.jpg"
             cv2.imwrite(os.path.join(output_dir, frame_name), frame)
             saved_count += 1
+            if saved_count >= max_saved_frames:
+                break
 
         frame_count += 1
 
     cap.release()
     print(f"Extracted {saved_count} frames from {video_path}")
 
-if __name__ == "__main__":
-    extract_frames(
-        video_path="data/raw_videos/gDN7cJ3Rt80.mp4",
-        output_dir="data/processed_videos/gDN7cJ3Rt80/frames"
-    )
+# if __name__ == "__main__":
+#     extract_frames(
+#         video_path="data/raw_videos/gDN7cJ3Rt80.mp4",
+#         output_dir="data/processed_videos/gDN7cJ3Rt80/frames"
+#     )

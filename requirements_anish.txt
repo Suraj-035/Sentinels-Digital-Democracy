@@ -1,0 +1,8 @@
+requests
+transformers
+torch
+streamlit
+langdetect
+pandas
+python-dotenv
+deep-translator

@@ -1,5 +1,5 @@
 def infer_behaviour(face, audio, accessories, clothing, activity):
-    if audio["speaking"] and audio["shouting"]:
+    if audio.get("speaking") and audio.get("intensity") == "high":
         speech = "speaking loudly"
     elif audio["speaking"]:
         speech = "speaking calmly"
@@ -12,7 +12,7 @@ def infer_behaviour(face, audio, accessories, clothing, activity):
         "happy": "appearing happy",
         "neutral": "with a neutral expression",
     }
-
+   
     return {
         "age_group": face["age_group"],
         "gender": face["gender"],

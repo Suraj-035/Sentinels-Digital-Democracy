@@ -2,6 +2,11 @@
 from yt_dlp import YoutubeDL
 
 def search_videos(query, max_results=5):
+    search_query = query.strip()
+    lowered = search_query.lower()
+    if "india" not in lowered and any(term in lowered for term in ["election", "rally", "protest", "government", "politics"]):
+        search_query = f"{search_query} India"
+
     ydl_opts = {
         "quiet": True,
         "extract_flat": True,
@@ -10,7 +15,7 @@ def search_videos(query, max_results=5):
 
     with YoutubeDL(ydl_opts) as ydl:
         result = ydl.extract_info(
-            f"ytsearch{max_results}:{query}",
+            f"ytsearch{max_results}:{search_query}",
             download=False
         )
 
