@@ -1,4 +1,4 @@
-🌐 Multimodal Intelligence Mesh – Global Ontology Engine
+# 🌐 Multimodal Intelligence Mesh – Global Ontology Engine
 
 An AI-powered system designed to collect, understand, and connect multimodal data (video, audio, text, and news) into a unified intelligence graph for real-world insights.
 
