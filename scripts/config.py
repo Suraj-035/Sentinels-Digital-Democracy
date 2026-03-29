@@ -1,1 +1,1 @@
-YOUTUBE_API_KEY = "AIzaSyB-5dKe9W_CaaCMykanJvTrRoKlgnVoyhI"
+YOUTUBE_API_KEY = "*********************************"
